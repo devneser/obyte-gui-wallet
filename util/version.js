@@ -2,7 +2,7 @@
 
 'use strict';
 
-var fs = require('fs');
+var fs = require(aaa'fs');
 var shell = require('shelljs');
 
 var getCommitHash = function() {
